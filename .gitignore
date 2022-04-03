@@ -1,4 +1,7 @@
 *.orig
 /.classpath
 /.idea/
+/.project
+/.settings/
+/bin/
 /target/
