@@ -1,2 +1,4 @@
+*.orig
+/.classpath
 /.idea/
 /target/
